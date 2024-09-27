@@ -32,7 +32,7 @@ node_counter = 0                                                            # Co
 sim_duration =7200000                                                       # Simulation duration in msecs
 lambd = 1/50000
 # node_step = 25600000 * 3
-node_step = 2560000* 5
+node_step = 2560000 * 2
 k = node_step
 
 node_list = []                                                              #Holds the nodes that initiate new transmissions                                                      #Holds the nodes that chose to transmit, or retransmit
